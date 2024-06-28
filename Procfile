@@ -1,1 +1,1 @@
-web: java -jar build/libs/demonstration-0.0.1-SNAPSHOT.jar
+web: java -jar demonstration/build/libs/demonstration-0.0.1-SNAPSHOT.jar
